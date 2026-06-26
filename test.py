@@ -4,3 +4,4 @@ def add(a, b):
 
 print(2+3)
 print(12)
+print("New Line")
