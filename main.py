@@ -6,3 +6,4 @@ def subtract(a, b):
 print(2+3)
 print(12)
 print("Hello")
+print("Nice!")
